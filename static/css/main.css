@@ -1,0 +1,239 @@
+
+#logo{
+
+	}
+	body{
+		background-image: url(tajmahal.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		
+	
+	}
+
+	#total-orders{
+
+			background-color: transparent ;
+			box-shadow: 4px 4px 40px black ;
+	}
+	#orders-delivered{
+
+		background-color: transparent ;
+		box-shadow: 4px 4px 40px black ;
+	}
+	#orders-pending{
+
+		background-color: transparent ;
+		box-shadow: 4px 4px 40px black ;
+	}
+
+	.back{
+		width: 300px;
+		height:300px ;
+		background-image: url(victoria.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size,width ,height ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back:hover{
+		background-size:100%;
+		width: 300px;
+		height: 300px;
+	}
+
+	.back1{
+		width: 300px;
+		height:300px ;
+		background-image: url(kolkata-birla-planetarium.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back1:hover{
+		background-size:100%;
+	}
+
+
+	.back2{
+		width: 300px;
+		height:300px ;
+		background-image: url(millennium-park.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back2:hover{
+		background-size:100%;
+	}
+
+	.back3{
+		width: 300px;
+		height:300px ;
+		background-image: url(sciencecity.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back3:hover{
+		background-size:100%;
+	}
+
+	.back4{
+		width: 300px;
+		height:300px ;
+		background-image: url(millennium-park2.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back4:hover{
+		background-size:100%;
+	}
+
+	.back5{
+		width: 300px;
+		height:300px ;
+		background-image: url(digha1.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back5:hover{
+		background-size:100%;
+	}
+
+	.back6{
+		width: 300px;
+		height:300px ;
+		background-image: url(mandarmani.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back6:hover{
+		background-size:100%;
+	}
+
+	.back7{
+		width: 300px;
+		height:300px ;
+		background-image: url(KALIMPONG.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back7:hover{
+		background-size:100%;
+	}
+
+	.back8{
+		width: 300px;
+		height:300px ;
+		background-image: url(Darjeeling.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back8:hover{
+		background-size:100%;
+	}
+	.back9{
+		width: 300px;
+		height:300px ;
+		background-image: url(har-ki-doon.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back9:hover{
+		background-size:100%;
+	}
+	.back10{
+		width: 300px;
+		height:300px ;
+		background-image: url(har-ki-doon2.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back10:hover{
+		background-size:100%;
+	}
+	.back11{
+		width: 300px;
+		height:300px ;
+		background-image: url(har-ki-doon3.jpg);
+		background-size: 200%;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition:  1s;
+		transition-property: background-size ;
+		box-shadow: 4px 4px 4px black;
+	}
+
+	.back11:hover{
+		background-size:100%;
+	}
+
+
+
+	tr.texting{
+		font-weight:bold ;
+		font-style: italic;
+		font-size: 30px;
+		color: blueviolet;
+		text-decoration: underline;
+	}
+
+	.whites {
+		background: rgba(255, 255,255, .5);
+		width: 95%;
+		height : 100%;
+	}
+
+	.statbar{
+		color: blue;
+	}
